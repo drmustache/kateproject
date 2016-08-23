@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  width: 100%;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.btnspace {
+  width:250px;
+  margin:0px;
+  margin-left:5px;
+}
+
+.testClass {
+  font-size: 6em;
+}
+
+.cntr {
+  text-align: center;
+}
+
+.nLine {
+  margin-top: 50px;
+}
